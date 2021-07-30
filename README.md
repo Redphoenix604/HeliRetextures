@@ -13,5 +13,5 @@ Link to website - https://sibnic.info/
 ##### Once you have loaded the server with the pbo, it will create new .json files in your server config folder.
 ##### Youll need to change "c_camDistance" From 10.0, to 15.0 in the appropriate heli. Otherwise in third person its tight close to the tail.
 
-Ice Blue Heli: 
-![alt text](https://i.imgur.com/XNIXtJL.png "Ice Blue Helicopter")
+Helicopters: 
+![alt text](https://i.imgur.com/XNIXtJL.png "Helicopters")
