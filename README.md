@@ -2,6 +2,7 @@
 ## DayZ SIBNIC Helicopter Retextures
 
 These are some Helicopter Retextures I've done for Nightwolfs Helicopters. Feel free to download the Pbo and pack away!
+Currently they are all retextured Police Helis. Five in total. Red camo, blacked out admin, ice blue, green camo, and the pink skull.
 
 Link to the Helis - https://github.com/moddayz
 Link to website - https://sibnic.info/
