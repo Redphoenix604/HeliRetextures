@@ -10,8 +10,8 @@ Link to website - https://sibnic.info/
 
 ## Things To Note 
 
-##### Once you have loaded the server with the pbo, it will create new .json files in your server config folder.
-##### Youll need to change "c_camDistance" From 10.0, to 15.0 in the appropriate heli. Otherwise in third person its tight close to the tail.
+##### Once you have loaded the server with the pbo, it will create new .json files (for the newly added helicopters) in your server config folder.
+##### Youll need to change "c_camDistance" From 10.0, to 15.0 in the appropriate heli json. Otherwise in third person its tight close to the tail.
 
 Helicopters: 
 ![alt text](https://i.imgur.com/XNIXtJL.png "Helicopters")
